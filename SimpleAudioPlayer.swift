@@ -1,6 +1,5 @@
 //
 //  SimpleAudioPlayer.swift
-//  SoundExperiment
 //
 //  Created by Noah Tsutsui on 4/4/19.
 //  Copyright © 2019 TwoButts. All rights reserved.
